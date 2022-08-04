@@ -20,6 +20,9 @@ jobs:
        - name: run xslt with jave in command lines
          run: java -jar ./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar -it -xsl:./project-documentation/stylesheets/mdt_inscriptions/mdtArtefact_start.xsl -o:./temporary/mdt_artefacts.xml
 
+       - name: run xslt with jave in command lines
+         run: java -jar ./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar -it -xsl:./project-documentation/stylesheets/mdt_inscriptions/mdtConglomerateArtefact_start.xsl -o:./temporary/mdt_conglomerate-artefacts.xml
+
        - name: Updating the edited texts in the repository
          run: |
           git config user.name github-actions
