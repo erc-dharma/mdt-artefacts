@@ -2,148 +2,6 @@
 <File>
    <line>
       <resourceManagement>
-         <resourceID>CONARTDaksinaKosala000001</resourceID>
-         <metadataOrigin/>
-         <metadataEditor>
-            <change when="" who="">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when="" who="">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when="" who="">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project>DHARMA</project>
-         <corpus>DaksinaKosala</corpus>
-         <metadataRights>CC0</metadataRights>
-      </resourceManagement>
-      <compositeArtefactDescription>
-         <compositeArtefactID>CONARTDaksinaKosala000001</compositeArtefactID>
-         <compositeArtefactDes/>
-         <alternative/>
-         <material/>
-         <compositeArtefactType/>
-         <decoDesc>
-            <p/>
-         </decoDesc>
-         <compositeArtefactFormat>
-            <height unit="cm"/>
-            <width unit="cm"/>
-            <depth unit="cm"/>
-            <diameter unit="cm"/>
-            <circumference unit="cm"/>
-            <weight unit="cm"/>
-         </compositeArtefactFormat>
-         <compositeArtefactHistory>
-            <p/>
-            <origDate when=""/>
-         </compositeArtefactHistory>
-         <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <compositeArtefactRights>
-            <governmentalHolder>All rights reserved</governmentalHolder>
-            <institutionalHolder/>
-            <compositeArtefactDistributionRights/>
-         </compositeArtefactRights>
-         <relatedResources/>
-         <remarks>
-            <p/>
-         </remarks>
-      </compositeArtefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID>CONARTDaksinaKosala000002</resourceID>
-         <metadataOrigin/>
-         <metadataEditor>
-            <change when="" who="">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when="" who="">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when="" who="">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project>DHARMA</project>
-         <corpus>DaksinaKosala</corpus>
-         <metadataRights>CC0</metadataRights>
-      </resourceManagement>
-      <compositeArtefactDescription>
-         <compositeArtefactID>CONARTDaksinaKosala000002</compositeArtefactID>
-         <compositeArtefactDes/>
-         <alternative/>
-         <material/>
-         <compositeArtefactType/>
-         <decoDesc>
-            <p/>
-         </decoDesc>
-         <compositeArtefactFormat>
-            <height unit="cm"/>
-            <width unit="cm"/>
-            <depth unit="cm"/>
-            <diameter unit="cm"/>
-            <circumference unit="cm"/>
-            <weight unit="cm"/>
-         </compositeArtefactFormat>
-         <compositeArtefactHistory>
-            <p/>
-            <origDate when=""/>
-         </compositeArtefactHistory>
-         <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <compositeArtefactRights>
-            <governmentalHolder>All rights reserved</governmentalHolder>
-            <institutionalHolder/>
-            <compositeArtefactDistributionRights/>
-         </compositeArtefactRights>
-         <relatedResources/>
-         <remarks>
-            <p/>
-         </remarks>
-      </compositeArtefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
          <resourceID>CONARTDaksinaKosala000003</resourceID>
          <metadataOrigin/>
          <metadataEditor>
@@ -7092,11 +6950,81 @@
          <compositeArtefactRights>
             <governmentalHolder>All rights reserved</governmentalHolder>
             <institutionalHolder/>
-            <compositeArtefactDistributionRights>0</compositeArtefactDistributionRights>
+            <compositeArtefactDistributionRights/>
+         </compositeArtefactRights>
+         <relatedResources/>
+         <remarks>
+            <p/>
+         </remarks>
+      </compositeArtefactDescription>
+   </line>
+   <line>
+      <resourceManagement>
+         <resourceID>Management of the resource</resourceID>
+         <metadataOrigin/>
+         <metadataEditor>
+            <change when="" who="">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project/>
+         <corpus/>
+         <metadataRights/>
+      </resourceManagement>
+      <compositeArtefactDescription>
+         <compositeArtefactID>Metadata of the conglomerate artefact (description of the item)</compositeArtefactID>
+         <compositeArtefactDes/>
+         <alternative/>
+         <material/>
+         <compositeArtefactType/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <compositeArtefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </compositeArtefactFormat>
+         <compositeArtefactHistory>
+            <p/>
+            <origDate when=""/>
+         </compositeArtefactHistory>
+         <originExhib>
+            <originExhibPlace/>
+            <originPlaceID id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName/>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName/>
+            <inventoryNumber/>
+            <preservationPlaceID idno=""/>
+            <preservationCoordinates/>
+            <inSituStatus value=""/>
+         </preservationPlace>
+         <compositeArtefactRights>
+            <governmentalHolder/>
+            <institutionalHolder/>
+            <compositeArtefactDistributionRights/>
          </compositeArtefactRights>
          <relatedResources>
-            <surrogateID idno="Fields group "/>
-            <imageID idno="Management of the resource "/>
+            <surrogateID idno="Link(s) to related resources "/>
          </relatedResources>
          <remarks>
             <p/>
@@ -7279,7 +7207,109 @@
    </line>
    <line>
       <resourceManagement>
-         <resourceID>"Digital identifier of the conglomerate artefact. </resourceID>
+         <resourceID>"Digital identifier of the conglomerate artefact. Syntax: CONART00001"</resourceID>
+         <metadataOrigin>Origin of the metadata: database or publication</metadataOrigin>
+         <metadataEditor>
+            <change when="Date of conversion of previously available metadata to the DHARMA model"
+                    who="part:&#34;Person(s) who supplied metadata (use the DHARMA members' Ids and separate them by part:">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when=" if more than one editor)&#34;"
+                    who="part:Start date of metadata input/editing for DHARMA (YYYY-MM-DD)">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when=" if more than one editor)&#34;"
+                    who="part:&#34;Person(s) who entered/edited metadata (use the DHARMA members' Ids and separate them by part:">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>"Validating person (use the DHARMA members' Ids and separate them by $</project>
+         <corpus> if more than one editor)"</corpus>
+         <metadataRights>Date of metadata validation (YYYY-MM-DD)</metadataRights>
+      </resourceManagement>
+      <compositeArtefactDescription>
+         <compositeArtefactID>Project responsible for making these metadata available</compositeArtefactID>
+         <compositeArtefactDes>Corpus to which the inscription pertains</compositeArtefactDes>
+         <alternative>
+            <artefactDes>Licence applicable to metadata</artefactDes>
+            <artefactDes>"Identifier of the conglomerate artefact. Syntax: CONART00001"</artefactDes>
+         </alternative>
+         <material> separate the identifiers by $"</material>
+         <material>"Identifier(s) of the artefact(s) that pertains to the conglomerate artefact</material>
+         <compositeArtefactType>"Identifier(s) of the text(s) on the conglomerate artefact</compositeArtefactType>
+         <compositeArtefactType> if there is more than one text on the conglomerate artefact</compositeArtefactType>
+         <decoDesc>
+            <p> if there is more than one artefact</p>
+         </decoDesc>
+         <compositeArtefactFormat>
+            <height unit="cm" max=" separate the identifiers by " min="&#34;"> separate the identifiers by –"</height>
+            <width unit="cm">Identifier of the monument that pertains to the conglomerate artefact</width>
+            <depth unit="cm">Artefact type</depth>
+            <diameter unit="cm">Artefact type</diameter>
+            <circumference unit="cm">Material type</circumference>
+            <weight unit="cm">Material type</weight>
+         </compositeArtefactFormat>
+         <copperplateFormat>
+            <bindingRing value="Iconography and/or decoration observed on the artefact (free text)"/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#Global width"/>
+            <sealHeight unit="cm">Global depth</sealHeight>
+            <sealWidth unit="cm">Global diameter</sealWidth>
+         </copperplateFormat>
+         <compositeArtefactHistory>
+            <p>Number of binding rings preserved</p>
+            <origDate from="" tp="">Global weight</origDate>
+         </compositeArtefactHistory>
+         <originExhib>
+            <originExhibPlace>Type of seal</originExhibPlace>
+            <originPlaceID id="Height of the seal matrix"/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName>Width of the seal matrix</discoveryPlaceName>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates/>
+            <discoveryEvents type="Description of what is known or recorded about the origin and subsequent history of the artefact (free text)"
+                             when="Remarks on conglomerate artefact-related metadata (free text)"/>
+            <discoveryEvents type="Place where the artefact was originally exposed — don't fill in if place ID is already available"
+                             when="ID of the place where the artefact was originally exposed"/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName>Place where the artefact was discovered — don't fill in if place ID is already available</preservationPlaceName>
+            <inventoryNumber>ID of the place where the artefact was discovered</inventoryNumber>
+            <preservationPlaceID idno="Coordinates if you have a specific topographic data"/>
+            <preservationCoordinates>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</preservationCoordinates>
+            <inSituStatus value="type of events"/>
+            <preservationEvents type="type of events"
+                                when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
+            <preservationEvents type="Collection or place (if the artefact remains in situ) where the artefact is currently preserved — don't fill in if collection ID is already available"
+                                when="Inventory number(s) of the artefact"/>
+            <preservationEvents type="ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)"
+                                when="The artefact has remained in situ"/>
+         </preservationPlace>
+         <compositeArtefactRights>
+            <governmentalHolder>Coordinates if you have a specific topographic data (exclusively for in situ artefact)</governmentalHolder>
+            <institutionalHolder>type of events</institutionalHolder>
+            <compositeArtefactDistributionRights>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</compositeArtefactDistributionRights>
+         </compositeArtefactRights>
+         <relatedResources>
+            <artefactID idno="Alternative designation(s) "/>
+            <textID idno="Designation of the conglomerate artefact "/>
+            <monumentID idno="Alternative designation(s) "/>
+            <surrogateID idno="type of events "/>
+            <imageID idno="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY) "/>
+         </relatedResources>
+         <remarks>
+            <p>Indicate the presence of seal(s) by yes or no</p>
+         </remarks>
+      </compositeArtefactDescription>
+   </line>
+   <line>
+      <resourceManagement>
+         <resourceID/>
          <metadataOrigin/>
          <metadataEditor>
             <change when="" who="">
@@ -7345,176 +7375,6 @@
          <relatedResources/>
          <remarks>
             <p/>
-         </remarks>
-      </compositeArtefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID>Date of conversion of previously available metadata to the DHARMA model</resourceID>
-         <metadataOrigin>"Person(s) who supplied metadata (use the DHARMA members' Ids and separate them by $</metadataOrigin>
-         <metadataEditor>
-            <change when=" if more than one editor)&#34;"
-                    who="part:Start date of metadata input/editing for DHARMA (YYYY-MM-DD)">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when="&#34;Person(s) who entered/edited metadata (use the DHARMA members' Ids and separate them by $"
-                    who="part: if more than one editor)&#34;">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when=" if more than one editor)&#34;"
-                    who="part:&#34;Validating person (use the DHARMA members' Ids and separate them by part:">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project>Date of metadata validation (YYYY-MM-DD)</project>
-         <corpus>Project responsible for making these metadata available</corpus>
-         <metadataRights>Corpus to which the inscription pertains</metadataRights>
-      </resourceManagement>
-      <compositeArtefactDescription>
-         <compositeArtefactID>Licence applicable to metadata</compositeArtefactID>
-         <compositeArtefactDes>"Identifier of the conglomerate artefact. </compositeArtefactDes>
-         <alternative/>
-         <material/>
-         <compositeArtefactType/>
-         <decoDesc>
-            <p/>
-         </decoDesc>
-         <compositeArtefactFormat>
-            <height unit="cm"/>
-            <width unit="cm"/>
-            <depth unit="cm"/>
-            <diameter unit="cm"/>
-            <circumference unit="cm"/>
-            <weight unit="cm"/>
-         </compositeArtefactFormat>
-         <compositeArtefactHistory>
-            <p/>
-            <origDate when=""/>
-         </compositeArtefactHistory>
-         <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <compositeArtefactRights>
-            <governmentalHolder/>
-            <institutionalHolder/>
-            <compositeArtefactDistributionRights/>
-         </compositeArtefactRights>
-         <relatedResources/>
-         <remarks>
-            <p/>
-         </remarks>
-      </compositeArtefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID>Alternative designation(s)</resourceID>
-         <metadataOrigin>Alternative designation(s)</metadataOrigin>
-         <metadataEditor>
-            <change when="&#34;Identifier(s) of the text(s) on the conglomerate artefact"
-                    who="part: if there is more than one text on the conglomerate artefact">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when=" separate the identifiers by $&#34;"
-                    who="part:&#34;Identifier(s) of the artefact(s) that pertains to the conglomerate artefact">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when=" separate the identifiers by $&#34;"
-                    who="part: if there is more than one artefact">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project>Identifier of the monument that pertains to the conglomerate artefact</project>
-         <corpus>Artefact type</corpus>
-         <metadataRights>Artefact type</metadataRights>
-      </resourceManagement>
-      <compositeArtefactDescription>
-         <compositeArtefactID>Material type</compositeArtefactID>
-         <compositeArtefactDes>Material type</compositeArtefactDes>
-         <alternative>
-            <artefactDes>Iconography and/or decoration observed on the artefact (free text)</artefactDes>
-            <artefactDes>Global height</artefactDes>
-         </alternative>
-         <material>Number of binding rings preserved</material>
-         <material>Indicate the presence of seal(s) by yes or no</material>
-         <compositeArtefactType>Global circumference</compositeArtefactType>
-         <compositeArtefactType>Global weight</compositeArtefactType>
-         <decoDesc>
-            <p>Type of seal</p>
-         </decoDesc>
-         <compositeArtefactFormat>
-            <height unit="cm">Height of the seal matrix</height>
-            <width unit="cm">Width of the seal matrix</width>
-            <depth unit="cm"/>
-            <diameter unit="cm"/>
-            <circumference unit="cm">Description of what is known or recorded about the origin and subsequent history of the artefact (free text)</circumference>
-            <weight unit="cm">Remarks on conglomerate artefact-related metadata (free text)</weight>
-         </compositeArtefactFormat>
-         <copperplateFormat>
-            <bindingRing value="Place where the artefact was originally exposed — don't fill in if place ID is already available"/>
-            <sealPreservation value="no"/>
-            <sealingTechnique value="#Place where the artefact was discovered — don't fill in if place ID is already available"/>
-            <sealHeight unit="cm">ID of the place where the artefact was discovered</sealHeight>
-            <sealWidth unit="cm">Coordinates if you have a specific topographic data</sealWidth>
-         </copperplateFormat>
-         <compositeArtefactHistory>
-            <p>type of events</p>
-            <origDate from="date of events (YYYY or MM" tp="YYYY or DD-MM-YYYY or YYYY-YYYY)">date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</origDate>
-         </compositeArtefactHistory>
-         <originExhib>
-            <originExhibPlace>Collection or place (if the artefact remains in situ) where the artefact is currently preserved — don't fill in if collection ID is already available</originExhibPlace>
-            <originPlaceID id="Inventory number(s) of the artefact"/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName>ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)</discoveryPlaceName>
-            <discoveryPlaceID id="The artefact has remained in situ"/>
-            <discoveryCoordinates>Coordinates if you have a specific topographic data (exclusively for in situ artefact)</discoveryCoordinates>
-            <discoveryEvents type="type of events"
-                             when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
-            <discoveryEvents type="type of events"
-                             when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName>type of events</preservationPlaceName>
-            <inventoryNumber>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</inventoryNumber>
-            <preservationPlaceID idno="The governmental holder of (property) rights to the artefact"/>
-            <preservationCoordinates>Licence applicable to the artefact</preservationCoordinates>
-            <inSituStatus value="Institution or private person authorizing access to the artefact"/>
-            <preservationEvents type="Identifier(s) of the related surrogate(s). Use $ to separate the identifiers."
-                                when="Identifier(s) of the related digital image(s). Use $ to separate the identifiers."/>
-         </preservationPlace>
-         <compositeArtefactRights>
-            <governmentalHolder/>
-            <institutionalHolder/>
-            <compositeArtefactDistributionRights/>
-         </compositeArtefactRights>
-         <relatedResources>
-            <artefactID idno="Global depth "/>
-            <textID idno="Global width "/>
-            <monumentID idno="Global diameter "/>
-         </relatedResources>
-         <remarks>
-            <p>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</p>
          </remarks>
       </compositeArtefactDescription>
    </line>
