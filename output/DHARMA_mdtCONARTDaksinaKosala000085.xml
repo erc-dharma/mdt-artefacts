@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><line>
+      <resourceManagement>
+         <resourceID>CONARTDaksinaKosala000085</resourceID>
+         <metadataOrigin/>
+         <metadataEditor>
+            <change when="" who="">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>DaksinaKosala</corpus>
+         <metadataRights>CC0</metadataRights>
+      </resourceManagement>
+      <compositeArtefactDescription>
+         <compositeArtefactID>CONARTDaksinaKosala000085</compositeArtefactID>
+         <compositeArtefactDes/>
+         <alternative/>
+         <material/>
+         <compositeArtefactType/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <compositeArtefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </compositeArtefactFormat>
+         <compositeArtefactHistory>
+            <p/>
+            <origDate when=""/>
+         </compositeArtefactHistory>
+         <originExhib>
+            <originExhibPlace/>
+            <originPlaceID id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName/>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName/>
+            <inventoryNumber/>
+            <preservationPlaceID idno=""/>
+            <preservationCoordinates/>
+            <inSituStatus value=""/>
+         </preservationPlace>
+         <compositeArtefactRights>
+            <governmentalHolder>All rights reserved</governmentalHolder>
+            <institutionalHolder/>
+            <compositeArtefactDistributionRights/>
+         </compositeArtefactRights>
+         <relatedResources/>
+         <remarks>
+            <p/>
+         </remarks>
+      </compositeArtefactDescription>
+   </line>

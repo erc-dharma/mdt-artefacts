@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><line>
+      <resourceManagement>
+         <resourceID>ARTDaksinaKosala000002</resourceID>
+         <metadataOrigin>ART000002</metadataOrigin>
+         <metadataEditor>
+            <change when="2022-01-17" who="part:Natasja Bosma">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="2022-01-17" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>DaksinaKosala</corpus>
+         <metadataRights>CCO</metadataRights>
+      </resourceManagement>
+      <artefactDescription>
+         <artefactID>ARTDaksinaKosala000002</artefactID>
+         <artefactDes>ART000002</artefactDes>
+         <alternative/>
+         <relationText>
+            <textID>INSDk00017</textID>
+         </relationText>
+         <material>metal - copper_alloy</material>
+         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <reuse value="yes"/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <artefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </artefactFormat>
+         <copperplateFormat>
+            <copperplateWeightOther>
+               <p/>
+            </copperplateWeightOther>
+            <bindingHole value="1"/>
+            <bindingRing value="0"/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#not applicable"/>
+            <sealHeight unit="cm"/>
+            <sealWidth unit="cm"/>
+         </copperplateFormat>
+         <date notBefore="" notAfter=""> when the single copperplate was first published</date>
+         <artefactHistory>
+            <p> it was discovered while digging a plot of land at Pokhra as part of a set complete with ring. Due to a quarrel between the diggers</p>
+         </artefactHistory>
+         <originExhib>
+            <originExhibPlace> it was preserved in the possession of an inhabitant of Rājim."</originExhibPlace>
+            <originPlaceID id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName/>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates>Pokhra</discoveryCoordinates>
+            <discoveryEvents type="excavation" when="first half nineteenth century"/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName/>
+            <inventoryNumber/>
+            <preservationPlaceID idno="Private possession (presumably)"/>
+            <preservationCoordinates/>
+            <inSituStatus value=""/>
+         </preservationPlace>
+         <artefactRights>
+            <governmentalHolder/>
+            <institutionalHolder/>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <surrogateID idno="All rights reserved "/>
+         </relatedResources>
+         <remarks>
+            <p> the decision was made to divide the set and only the present plate survived (whereas the rest of the set was melted down). Afterwards</p>
+         </remarks>
+      </artefactDescription>
+   </line>
