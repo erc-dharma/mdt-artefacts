@@ -2,6 +2,95 @@
 <File>
    <line>
       <resourceManagement>
+         <resourceID>ARTDaksinaKosala000001</resourceID>
+         <metadataOrigin>ART000001</metadataOrigin>
+         <metadataEditor>
+            <change when="2022-01-17" who="part:Natasja Bosma">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="2022-01-17" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>DaksinaKosala</corpus>
+         <metadataRights>CCO</metadataRights>
+      </resourceManagement>
+      <artefactDescription>
+         <artefactID>ARTDaksinaKosala000001</artefactID>
+         <artefactDes>ART000001</artefactDes>
+         <alternative/>
+         <relationText>
+            <textID>INSDk00003</textID>
+         </relationText>
+         <material>metal - copper_alloy</material>
+         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <reuse value="yes"/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <artefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </artefactFormat>
+         <copperplateFormat>
+            <copperplateWeightOther>
+               <p/>
+            </copperplateWeightOther>
+            <bindingHole value="1"/>
+            <bindingRing value="0"/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#not applicable"/>
+            <sealHeight unit="cm"/>
+            <sealWidth unit="cm"/>
+         </copperplateFormat>
+         <date notBefore="" notAfter=""> it was purchased and preserved in the Rānī Durgāvatī Museum at Jabalpur."</date>
+         <artefactHistory>
+            <p/>
+         </artefactHistory>
+         <originExhib>
+            <originExhibPlace/>
+            <originPlaceID id="Malhār"/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName/>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates>find</discoveryCoordinates>
+            <discoveryEvents type="c. 1964" when=""/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName/>
+            <inventoryNumber/>
+            <preservationPlaceID idno=""/>
+            <preservationCoordinates/>
+            <inSituStatus value=""/>
+         </preservationPlace>
+         <artefactRights>
+            <governmentalHolder/>
+            <institutionalHolder>All rights reserved</institutionalHolder>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <textID idno="DHARMA_ ART000001_1.1v "/>
+         </relatedResources>
+         <remarks>
+            <p/>
+         </remarks>
+      </artefactDescription>
+   </line>
+   <line>
+      <resourceManagement>
          <resourceID>ARTDaksinaKosala000002</resourceID>
          <metadataOrigin>ART000002</metadataOrigin>
          <metadataEditor>
@@ -8139,398 +8228,6 @@
          <relatedResources/>
          <remarks>
             <p/>
-         </remarks>
-      </artefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID>Management of the resource</resourceID>
-         <metadataOrigin/>
-         <metadataEditor>
-            <change when="" who="">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when="" who="">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when="" who="">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project/>
-         <corpus/>
-         <metadataRights/>
-      </resourceManagement>
-      <artefactDescription>
-         <artefactID>Metadata of the artefact (description of the item)</artefactID>
-         <artefactDes/>
-         <alternative/>
-         <relationText/>
-         <reuse value="yes"/>
-         <decoDesc>
-            <p/>
-         </decoDesc>
-         <artefactFormat>
-            <height unit="cm"/>
-            <width unit="cm"/>
-            <depth unit="cm"/>
-            <diameter unit="cm"/>
-            <circumference unit="cm"/>
-            <weight unit="cm"/>
-         </artefactFormat>
-         <copperplateFormat>
-            <copperplateWeightOther>
-               <p/>
-            </copperplateWeightOther>
-            <bindingHole value=""/>
-            <bindingRing value=""/>
-            <sealPreservation value="no"/>
-            <sealingTechnique value="#"/>
-            <sealHeight unit="cm"/>
-            <sealWidth unit="cm"/>
-         </copperplateFormat>
-         <date when=""/>
-         <artefactHistory>
-            <p/>
-         </artefactHistory>
-         <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder/>
-            <institutionalHolder/>
-            <artefactDistributionRights/>
-         </artefactRights>
-         <relatedResources>
-            <textID idno="Link(s) to related resources "/>
-            <imageID idno="0 "/>
-         </relatedResources>
-         <remarks>
-            <p/>
-         </remarks>
-      </artefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID/>
-         <metadataOrigin/>
-         <metadataEditor>
-            <change when="" who="">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when="" who="">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when="" who="">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project/>
-         <corpus/>
-         <metadataRights/>
-      </resourceManagement>
-      <artefactDescription>
-         <artefactID>Artefact identity</artefactID>
-         <artefactDes/>
-         <alternative/>
-         <relationText>
-            <textID>Related entities</textID>
-         </relationText>
-         <artefactType>Artefact typology</artefactType>
-         <reuse value="yes"/>
-         <decoDesc>
-            <p/>
-         </decoDesc>
-         <artefactFormat>
-            <height unit="cm">Artefact format</height>
-            <width unit="cm"/>
-            <depth unit="cm"/>
-            <diameter unit="cm"/>
-            <circumference unit="cm"/>
-            <weight unit="cm"/>
-         </artefactFormat>
-         <copperplateFormat>
-            <copperplateWeightOther>
-               <p>Copper-plate Format</p>
-            </copperplateWeightOther>
-            <bindingHole value=""/>
-            <bindingRing value=""/>
-            <sealPreservation value="no"/>
-            <sealingTechnique value="#"/>
-            <sealHeight unit="cm"/>
-            <sealWidth unit="cm"/>
-         </copperplateFormat>
-         <date when="Date">Date</date>
-         <artefactHistory>
-            <p/>
-         </artefactHistory>
-         <originExhib>
-            <originExhibPlace>Place of original exposition</originExhibPlace>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName>Place of discovery</discoveryPlaceName>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName>Place of preservation</preservationPlaceName>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder>Rights</governmentalHolder>
-            <institutionalHolder/>
-            <artefactDistributionRights/>
-         </artefactRights>
-         <relatedResources>
-            <imageID idno="0 "/>
-         </relatedResources>
-         <remarks>
-            <p/>
-         </remarks>
-      </artefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID>Identifier of the resource</resourceID>
-         <metadataOrigin>Origin of the metadata</metadataOrigin>
-         <metadataEditor>
-            <change when="DHARMA import" who="part:Editor of the metadata">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when="Date of the edition" who="part:Contributor of the metadata">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when="Date of review" who="part:Reviewer">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project>Project</project>
-         <corpus>Corpus</corpus>
-         <metadataRights>Distribution rights of the metadata</metadataRights>
-      </resourceManagement>
-      <artefactDescription>
-         <artefactID>Identifier of the artefact</artefactID>
-         <artefactDes>Designation</artefactDes>
-         <alternative>
-            <artefactDes>Alternative designation</artefactDes>
-            <artefactDes>Alternative designation</artefactDes>
-         </alternative>
-         <relationText>
-            <textID>Identifier(s) of the text(s)</textID>
-         </relationText>
-         <relationArtefact>
-            <compositeArtefactID>Identifier of the conglomerate artefact</compositeArtefactID>
-         </relationArtefact>
-         <relationMonument>
-            <monumentID>Identifier of the monument</monumentID>
-         </relationMonument>
-         <material>Material type 1</material>
-         <material>Material type 2</material>
-         <artefactType>Artefact type 1</artefactType>
-         <artefactType>Artefact type 2</artefactType>
-         <reuse value="yes"/>
-         <decoDesc>
-            <p>Iconography and decoration</p>
-         </decoDesc>
-         <artefactFormat>
-            <height unit="cm">Height</height>
-            <width unit="cm">Width</width>
-            <depth unit="cm">Depth</depth>
-            <diameter unit="cm">Diameter</diameter>
-            <circumference unit="cm">Circumference</circumference>
-            <weight unit="cm">Weight</weight>
-         </artefactFormat>
-         <copperplateFormat>
-            <copperplateWeightOther>
-               <p>Weight other</p>
-            </copperplateWeightOther>
-            <bindingHole value="Binding hole"/>
-            <bindingRing value="Binding ring"/>
-            <sealPreservation value="no"/>
-            <sealingTechnique value="#Sealing technique"/>
-            <sealHeight unit="cm">Height of the seal</sealHeight>
-            <sealWidth unit="cm">Width of the seal</sealWidth>
-         </copperplateFormat>
-         <date notBefore="" notAfter="">Date range</date>
-         <artefactHistory>
-            <p>History of the artefact</p>
-         </artefactHistory>
-         <originExhib>
-            <originExhibPlace>Place of original exposition</originExhibPlace>
-            <originPlaceID id="Place of original exposition ID"/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName>Place of discovery</discoveryPlaceName>
-            <discoveryPlaceID id="Place of discovery ID"/>
-            <discoveryCoordinates>Place of discovery coordinates</discoveryCoordinates>
-            <discoveryEvents type="Discovery events" when="Date of discovery events"/>
-            <discoveryEvents type="Discovery events" when="Date of discovery events"/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName>Collection or place of preservation</preservationPlaceName>
-            <inventoryNumber>Inventory number</inventoryNumber>
-            <preservationPlaceID idno="Collection ID or place of preservation ID"/>
-            <preservationCoordinates>Place of preservation coordinates</preservationCoordinates>
-            <inSituStatus value="Affirming in situ status"/>
-            <preservationEvents type="Preservation events" when="Date of preservation events"/>
-            <preservationEvents type="Preservation events" when="Date of preservation events"/>
-            <preservationEvents type="Preservation events" when="Date of preservation events"/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder>Governmental rights holder</governmentalHolder>
-            <institutionalHolder>Institution or private person</institutionalHolder>
-            <artefactDistributionRights>Distribution rights of the artefact</artefactDistributionRights>
-         </artefactRights>
-         <relatedResources>
-            <textID idno="Identifier of the surrogate "/>
-            <surrogateID idno="Identifier of the digital image "/>
-            <imageID idno="0 "/>
-         </relatedResources>
-         <remarks>
-            <p>Remarks</p>
-         </remarks>
-      </artefactDescription>
-   </line>
-   <line>
-      <resourceManagement>
-         <resourceID>Digital identifier of the artefact. Syntax: ART&lt;corpus&gt;000001</resourceID>
-         <metadataOrigin>Origin of the metadata: database or publication</metadataOrigin>
-         <metadataEditor>
-            <change when="Date of conversion of previously available metadata to the DHARMA model"
-                    who="part:&#34;Person(s) who supplied metadata (use the DHARMA members' Ids and separate them by part:">
-                                import of medadata
-                            </change>
-         </metadataEditor>
-         <metadataContribution>
-            <change when=" if more than one editor)&#34;"
-                    who="part:Start date of metadata input/editing for DHARMA (YYYY-MM-DD)">
-                                Contributions made in medadata
-                            </change>
-         </metadataContribution>
-         <metadataReview>
-            <change when=" if more than one editor)&#34;"
-                    who="part:&#34;Person(s) who entered/edited metadata (use the DHARMA members' Ids and separate them by part:">
-                                Reviews of medadata
-                            </change>
-         </metadataReview>
-         <project>"Validating person (use the DHARMA members' Ids and separate them by $</project>
-         <corpus> if more than one editor)"</corpus>
-         <metadataRights>Date of metadata validation (YYYY-MM-DD)</metadataRights>
-      </resourceManagement>
-      <artefactDescription>
-         <artefactID>Project responsible for making these metadata available</artefactID>
-         <artefactDes>Corpus to which the inscription pertains</artefactDes>
-         <alternative>
-            <artefactDes>Licence applicable to metadata</artefactDes>
-            <artefactDes>"Identifier of the artefact. Syntax: ART&lt;corpus&gt;000001"</artefactDes>
-         </alternative>
-         <relationText>
-            <textID>Designation of the artefact</textID>
-         </relationText>
-         <relationArtefact>
-            <compositeArtefactID>Alternative designation(s)</compositeArtefactID>
-         </relationArtefact>
-         <relationMonument>
-            <monumentID>Alternative designation(s)</monumentID>
-         </relationMonument>
-         <material> if there is more than one text on the artefact</material>
-         <material>Identifier of the monument to which the artefact pertains</material>
-         <artefactType>"Identifier(s) of the text on the artefact(s)</artefactType>
-         <artefactType>Identifier of the conglomerate artefact to which the artefact pertains</artefactType>
-         <reuse value="yes"/>
-         <decoDesc>
-            <p>Artefact type</p>
-         </decoDesc>
-         <artefactFormat>
-            <height unit="cm">Material type</height>
-            <width unit="cm">"No by default</width>
-            <depth unit="cm"> write yes if you'r encoding a case of reuse"</depth>
-            <diameter unit="cm">Artefact type</diameter>
-            <circumference unit="cm">Material type</circumference>
-            <weight unit="cm">Iconography and/or decoration observed on the artefact — free text</weight>
-         </artefactFormat>
-         <copperplateFormat>
-            <copperplateWeightOther>
-               <p>Height of the artefact</p>
-            </copperplateWeightOther>
-            <bindingHole value="Width of the artefact"/>
-            <bindingRing value="Depth of the artefact"/>
-            <sealPreservation value="no"/>
-            <sealingTechnique value="#Circumference of the artefact"/>
-            <sealHeight unit="cm">Weight of the artefact</sealHeight>
-            <sealWidth unit="cm">"Other relevant weight(s)</sealWidth>
-         </copperplateFormat>
-         <date notBefore="" notAfter=""> ring — free text"</date>
-         <artefactHistory>
-            <p>Number of binding hole(s) observed</p>
-         </artefactHistory>
-         <originExhib>
-            <originExhibPlace>Indicate the presence of seal(s) by yes or no</originExhibPlace>
-            <originPlaceID id="Type of seal"/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName>Height of the seal matrix</discoveryPlaceName>
-            <discoveryPlaceID id="Width of the seal matrix"/>
-            <discoveryCoordinates>YYYY-MM-DD or YYYY-MM or YYYY</discoveryCoordinates>
-            <discoveryEvents type="YYYY-YYYY"
-                             when="Description of what is known or recorded about the origin and subsequent history of the artefact (free text)"/>
-            <discoveryEvents type="Remarks on artefact-related metadata (free text)"
-                             when="Name of the place where the artefact was originally exposed — don't fill in if place ID is already available"/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName>ID of the place where the artefact was originally exposed</preservationPlaceName>
-            <inventoryNumber>Place where the artefact was discovered — don't fill in if place ID is already available</inventoryNumber>
-            <preservationPlaceID idno="ID of the place where the artefact was discovered"/>
-            <preservationCoordinates>type of events</preservationCoordinates>
-            <inSituStatus value="Coordinates if you have specific topographic data"/>
-            <preservationEvents type="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"
-                                when="type of events"/>
-            <preservationEvents type="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"
-                                when="Last known collection or (if the artefact remains in situ) place of preservation of the artefact — don't fill in if collection ID is already available"/>
-            <preservationEvents type="Inventory number(s) of the artefact"
-                                when="ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)"/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder>The artefact has remained in situ</governmentalHolder>
-            <institutionalHolder>Coordinates if you have a specific topographic data (exclusively for in situ artefact)</institutionalHolder>
-            <artefactDistributionRights>type of events</artefactDistributionRights>
-         </artefactRights>
-         <relatedResources>
-            <textID idno="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY) "/>
-            <surrogateID idno="type of events "/>
-            <imageID idno="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY) "/>
-         </relatedResources>
-         <remarks>
-            <p>Number of binding rings preserved</p>
          </remarks>
       </artefactDescription>
    </line>
