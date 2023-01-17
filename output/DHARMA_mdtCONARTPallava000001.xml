@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><line>
+      <resourceManagement>
+         <resourceID>CONARTPallava000001</resourceID>
+         <metadataOrigin/>
+         <metadataEditor>
+            <change when="" who="part:emfr">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="2023-01-17" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>Pallava</corpus>
+         <metadataRights>CC0</metadataRights>
+      </resourceManagement>
+      <compositeArtefactDescription>
+         <compositeArtefactID>CONARTPallava000001</compositeArtefactID>
+         <compositeArtefactDes>"Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8"</compositeArtefactDes>
+         <alternative/>
+         <material/>
+         <material>metal - copper_alloy</material>
+         <compositeArtefactType>documentary - plate_(copper-plate)</compositeArtefactType>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <compositeArtefactFormat>
+            <height unit="cm"/>
+            <width unit="cm">20</width>
+            <depth unit="cm">9</depth>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </compositeArtefactFormat>
+         <copperplateFormat>
+            <bindingRing value="3106"/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#"/>
+            <sealHeight unit="cm">Found without ring.</sealHeight>
+            <sealWidth unit="cm">The plates are not foliated.</sealWidth>
+         </copperplateFormat>
+         <compositeArtefactHistory>
+            <p/>
+            <origDate when="Found without seal.">Found without seal.</origDate>
+         </compositeArtefactHistory>
+         <originExhib>
+            <originExhibPlace/>
+            <originPlaceID id="850-900"/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName>"Discovered by Jules Delafon, in June 1879, buried at a depth of  1 metre, beneath a heap of bricks, 6 metres south of the Vākūr temple. Given by Jules Godin to Jules Ferry. Lost of sight until December 1904. Given by Madame Jules Ferry to the future BnF."</discoveryPlaceName>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates>in collection</discoveryCoordinates>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName/>
+            <inventoryNumber>find</inventoryNumber>
+            <preservationPlaceID idno="06-1897"/>
+            <preservationCoordinates/>
+            <inSituStatus value=""/>
+            <preservationEvents type="TBC" when="TBC"/>
+            <preservationEvents type="Indien 574" when="acquisition"/>
+            <preservationEvents type="15-05-1905" when=""/>
+         </preservationPlace>
+         <compositeArtefactRights>
+            <governmentalHolder/>
+            <institutionalHolder/>
+            <compositeArtefactDistributionRights/>
+         </compositeArtefactRights>
+         <relatedResources>
+            <textID idno="INSPallava00155 "/>
+            <surrogateID idno="BnF "/>
+            <imageID idno="All rights reserved "/>
+         </relatedResources>
+         <remarks>
+            <p/>
+         </remarks>
+      </compositeArtefactDescription>
+   </line>

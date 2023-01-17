@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><line>
+      <resourceManagement>
+         <resourceID>Date of conversion of previously available metadata to the DHARMA model</resourceID>
+         <metadataOrigin>"Person(s) who supplied metadata (use the DHARMA members' Ids and separate them by $</metadataOrigin>
+         <metadataEditor>
+            <change when=" if more than one editor)&#34;" who="part:Start date of metadata input/editing for DHARMA (YYYY-MM-DD)">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="&#34;Person(s) who entered/edited metadata (use the DHARMA members' Ids and separate them by $" who="part: if more than one editor)&#34;">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when=" if more than one editor)&#34;" who="part:&#34;Validating person (use the DHARMA members' Ids and separate them by part:">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>Date of metadata validation (YYYY-MM-DD)</project>
+         <corpus>Project responsible for making these metadata available</corpus>
+         <metadataRights>Corpus to which the inscription pertains</metadataRights>
+      </resourceManagement>
+      <compositeArtefactDescription>
+         <compositeArtefactID>Licence applicable to metadata</compositeArtefactID>
+         <compositeArtefactDes>"Identifier of the conglomerate artefact. </compositeArtefactDes>
+         <alternative/>
+         <material/>
+         <compositeArtefactType/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <compositeArtefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </compositeArtefactFormat>
+         <compositeArtefactHistory>
+            <p/>
+            <origDate when=""/>
+         </compositeArtefactHistory>
+         <originExhib>
+            <originExhibPlace/>
+            <originPlaceID id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceName/>
+            <discoveryPlaceID id=""/>
+            <discoveryCoordinates/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceName/>
+            <inventoryNumber/>
+            <preservationPlaceID idno=""/>
+            <preservationCoordinates/>
+            <inSituStatus value=""/>
+         </preservationPlace>
+         <compositeArtefactRights>
+            <governmentalHolder/>
+            <institutionalHolder/>
+            <compositeArtefactDistributionRights/>
+         </compositeArtefactRights>
+         <relatedResources/>
+         <remarks>
+            <p/>
+         </remarks>
+      </compositeArtefactDescription>
+   </line>
