@@ -23,12 +23,10 @@
       </resourceManagement>
       <artefactDescription>
          <artefactID>ARTDaksinaKosala000003</artefactID>
-         <artefactDes>ART000003</artefactDes>
-         <alternative/>
+         <artefactDes type="main">ART000003</artefactDes>
          <relationText>
             <textID>INSDk00021</textID>
          </relationText>
-         <material>metal - copper_alloy</material>
          <artefactType>documentary - plate_(copper-plate)</artefactType>
          <reuse value="yes"/>
          <decoDesc>
@@ -47,43 +45,36 @@
                <p/>
             </copperplateWeightOther>
             <bindingHole value="1"/>
-            <bindingRing value="0"/>
             <sealPreservation value="no"/>
-            <sealingTechnique value="#not applicable"/>
-            <sealHeight unit="cm"/>
+            <sealingTechnique value="#no"/>
+            <sealHeight unit="cm">not applicable</sealHeight>
             <sealWidth unit="cm"/>
          </copperplateFormat>
-         <date notBefore="" notAfter=""> the single plate was found at Būrhīkhār by a man named Pandey</date>
+         <date notBefore="" notAfter="">"At some point in the nineteen seventies</date>
          <artefactHistory>
-            <p> whose family has preserved the plate ever since."</p>
+            <p> the single plate was found at Būrhīkhār by a man named Pandey</p>
          </artefactHistory>
+         <remarks>
+            <p> whose family has preserved the plate ever since."</p>
+         </remarks>
          <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
+            <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceName>Būrhīkhār</discoveryPlaceName>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
+            <discoveryPlaceId id="">Būrhīkhār</discoveryPlaceId>eId&gt;
+                        <discoveryCoordinates/>
             <discoveryEvents type="find" when="nineteen seventies"/>
          </discoveryPlace>
          <preservationPlace>
-            <preservationPlaceName>Private possession in Malhār (Pandey)</preservationPlaceName>
+            <preservationPlaceId id="">Private possession in Malhār (Pandey)</preservationPlaceId>
             <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
          </preservationPlace>
          <artefactRights>
-            <governmentalHolder/>
-            <institutionalHolder/>
-            <artefactDistributionRights>All rights reserved</artefactDistributionRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
          </artefactRights>
          <relatedResources>
-            <surrogateID idno="DHARMA_ ART000003_1.2r "/>
+            <repoID idno="All rights reserved "/>
          </relatedResources>
-         <remarks>
-            <p/>
-         </remarks>
       </artefactDescription>
    </line>

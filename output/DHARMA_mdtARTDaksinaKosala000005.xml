@@ -23,12 +23,10 @@
       </resourceManagement>
       <artefactDescription>
          <artefactID>ARTDaksinaKosala000005</artefactID>
-         <artefactDes>ART000009</artefactDes>
-         <alternative/>
+         <artefactDes type="main">ART000009</artefactDes>
          <relationText>
             <textID>INSDk00049</textID>
          </relationText>
-         <material>metal - copper_alloy</material>
          <artefactType>documentary - plate_(copper-plate)</artefactType>
          <reuse value="yes"/>
          <decoDesc>
@@ -47,41 +45,37 @@
                <p/>
             </copperplateWeightOther>
             <bindingHole value="1"/>
-            <bindingRing value="0"/>
             <sealPreservation value="no"/>
-            <sealingTechnique value="#not applicable"/>
-            <sealHeight unit="cm"/>
+            <sealingTechnique value="#no"/>
+            <sealHeight unit="cm">not applicable</sealHeight>
             <sealWidth unit="cm"/>
          </copperplateFormat>
          <date when=""/>
          <artefactHistory>
             <p/>
          </artefactHistory>
-         <originExhib>
-            <originExhibPlace>Malhār</originExhibPlace>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-            <discoveryEvents type="Private possession in Malhār (Kulab Singh)" when=""/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder>All rights reserved</governmentalHolder>
-            <institutionalHolder/>
-            <artefactDistributionRights>DHARMA_ ART000009_1.1v</artefactDistributionRights>
-         </artefactRights>
-         <relatedResources/>
          <remarks>
             <p/>
          </remarks>
+         <originExhib>
+            <originExhibPlace status="" id="">Malhār</originExhibPlace>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id=""/>eId&gt;
+                        <discoveryCoordinates/>
+            <discoveryEvents type="Private possession in Malhār (Kulab Singh)" when=""/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id=""/>
+            <inventoryNumber/>
+         </preservationPlace>
+         <artefactRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <surrogateID idno="All rights reserved "/>
+            <repoID idno="DHARMA_ ART000009_1.1v "/>
+         </relatedResources>
       </artefactDescription>
    </line>

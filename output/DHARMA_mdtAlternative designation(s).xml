@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><line>
+      <resourceManagement>
+         <resourceID>Alternative designation(s)</resourceID>
+         <metadataOrigin>Alternative designation(s)</metadataOrigin>
+         <metadataEditor>
+            <change when="&#34;Identifier(s) of the text on the artefact(s)" who="part: if there is more than one text on the artefact">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when=" separate the identifiers by $.&#34;" who="part:Identifier of the conglomerate artefact to which the artefact pertains">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="Artefact type" who="part:Identifier of the monument to which the artefact pertains">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>"""no"" by default</project>
+         <corpus> write ""yes"" if you're encoding a case of reuse"</corpus>
+         <metadataRights>Artefact type</metadataRights>
+      </resourceManagement>
+      <artefactDescription>
+         <artefactID>Material type</artefactID>
+         <artefactDes type="main">Material type</artefactDes>
+         <alternative>
+            <artefactDes type="alt">Iconography and/or decoration observed on the artefact — free text</artefactDes>
+            <artefactDes type="alt">Height of the artefact</artefactDes>
+         </alternative>
+         <relationText>
+            <textID>Width of the artefact</textID>
+         </relationText>
+         <relationArtefact>
+            <compositeArtefactID>Depth of the artefact</compositeArtefactID>
+         </relationArtefact>
+         <relationMonument>
+            <monumentID>Diameter of the artefact</monumentID>
+         </relationMonument>
+         <material> e.g. seal</material>
+         <material> ring — free text"</material>
+         <artefactType>Circumference of the artefact</artefactType>
+         <artefactType>"Other relevant weight(s)</artefactType>
+         <reuse value="yes"/>
+         <decoDesc>
+            <p>"Number of binding rings preserved</p>
+         </decoDesc>
+         <artefactFormat>
+            <height unit="cm"> location of the holes</height>
+            <width unit="cm"> dimension of the holes</width>
+            <depth unit="cm"> etc. Free text"</depth>
+            <diameter unit="cm">Default value 'not applicable'. Replace by yes or no in case of presence/loss of seal(s) </diameter>
+            <circumference unit="cm">Type of seal</circumference>
+            <weight unit="cm">Height or diameter of the seal matrix</weight>
+         </artefactFormat>
+         <copperplateFormat>
+            <copperplateWeightOther>
+               <p>Width or diameter of the seal matrix</p>
+            </copperplateWeightOther>
+            <bindingHole value="YYYY-MM-DD or YYYY-MM or YYYY"/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#Description of what is known or recorded about the origin and subsequent history of the artefact (free text)"/>
+            <sealHeight unit="cm">Remarks on artefact-related metadata (free text)</sealHeight>
+            <sealWidth unit="cm">"To affirm in situ status</sealWidth>
+         </copperplateFormat>
+         <date notBefore="" notAfter=""> loss</date>
+         <artefactHistory>
+            <p> or uncertainty"</p>
+         </artefactHistory>
+         <remarks>
+            <p>Name of the place where the artefact was originally exposed — don't fill in if place ID is already available</p>
+         </remarks>
+         <originExhib>
+            <originExhibPlace status="ID of the place where the artefact was originally exposed" id="ID of the place where the artefact was discovered">Place where the artefact was discovered — don't fill in if place ID is already available</originExhibPlace>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id="first event type">Coordinates if you have specific topographic data</discoveryPlaceId>eId&gt;
+                        <discoveryCoordinates>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</discoveryCoordinates>
+            <discoveryEvents type="second event type" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
+            <discoveryEvents type="Last known collection or place of preservation of the artefact — don't fill in if preserved in situ and if collection ID (next field) is available" when="Last known collection or place of preservation  — don't fill in if preserved in situ"/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id="first event type">Inventory number(s) of the artefact</preservationPlaceId>
+            <inventoryNumber>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</inventoryNumber>
+            <preservationEvents type="second event type" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
+            <preservationEvents type="third event type" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
+            <preservationEvents type="Institution or private person authorizing access to the artefact" when="Licence applicable to the artefact"/>
+         </preservationPlace>
+         <artefactRights>
+            <rightHolder>Identifier(s) of the related surrogate(s). Use $ to separate the identifiers.</rightHolder>
+            <artefactDistributionRights>Identifier(s) of the related digital image(s). Use $ to separate the identifiers.</artefactDistributionRights>
+         </artefactRights>
+         <relatedResources>
+            <surrogateID idno="Link(s) to related images stored on external repository.  Use   to separate the identifiers. "/>
+            <imageID idno="0 "/>
+         </relatedResources>
+      </artefactDescription>
+   </line>

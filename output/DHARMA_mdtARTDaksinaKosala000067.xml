@@ -23,9 +23,10 @@
       </resourceManagement>
       <artefactDescription>
          <artefactID>ARTDaksinaKosala000067</artefactID>
-         <artefactDes/>
-         <alternative/>
-         <relationText/>
+         <artefactDes type="main"/>
+         <relationText>
+            <textID/>
+         </relationText>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -43,7 +44,6 @@
                <p/>
             </copperplateWeightOther>
             <bindingHole value=""/>
-            <bindingRing value=""/>
             <sealPreservation value="no"/>
             <sealingTechnique value="#"/>
             <sealHeight unit="cm"/>
@@ -53,30 +53,26 @@
          <artefactHistory>
             <p/>
          </artefactHistory>
-         <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder>All rights reserved</governmentalHolder>
-            <institutionalHolder/>
-            <artefactDistributionRights/>
-         </artefactRights>
-         <relatedResources/>
          <remarks>
             <p/>
          </remarks>
+         <originExhib>
+            <originExhibPlace status="" id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id=""/>eId&gt;
+                        <discoveryCoordinates/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id=""/>
+            <inventoryNumber/>
+         </preservationPlace>
+         <artefactRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <surrogateID idno="All rights reserved "/>
+         </relatedResources>
       </artefactDescription>
    </line>

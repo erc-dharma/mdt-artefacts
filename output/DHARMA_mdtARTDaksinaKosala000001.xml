@@ -23,12 +23,10 @@
       </resourceManagement>
       <artefactDescription>
          <artefactID>ARTDaksinaKosala000001</artefactID>
-         <artefactDes>ART000001</artefactDes>
-         <alternative/>
+         <artefactDes type="main">ART000001</artefactDes>
          <relationText>
             <textID>INSDk00003</textID>
          </relationText>
-         <material>metal - copper_alloy</material>
          <artefactType>documentary - plate_(copper-plate)</artefactType>
          <reuse value="yes"/>
          <decoDesc>
@@ -47,43 +45,36 @@
                <p/>
             </copperplateWeightOther>
             <bindingHole value="1"/>
-            <bindingRing value="0"/>
             <sealPreservation value="no"/>
-            <sealingTechnique value="#not applicable"/>
-            <sealHeight unit="cm"/>
+            <sealingTechnique value="#no"/>
+            <sealHeight unit="cm">not applicable</sealHeight>
             <sealWidth unit="cm"/>
          </copperplateFormat>
-         <date notBefore="" notAfter=""> it was purchased and preserved in the Rānī Durgāvatī Museum at Jabalpur."</date>
+         <date notBefore="" notAfter="">"The single plate was discovered in a field at Rawan and was in private possession for about 15 years. Afterwards</date>
          <artefactHistory>
-            <p/>
+            <p> it was purchased and preserved in the Rānī Durgāvatī Museum at Jabalpur."</p>
          </artefactHistory>
-         <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id="Malhār"/>
-         </originExhib>
-         <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates>find</discoveryCoordinates>
-            <discoveryEvents type="c. 1964" when=""/>
-         </discoveryPlace>
-         <preservationPlace>
-            <preservationPlaceName/>
-            <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
-         </preservationPlace>
-         <artefactRights>
-            <governmentalHolder/>
-            <institutionalHolder>All rights reserved</institutionalHolder>
-            <artefactDistributionRights/>
-         </artefactRights>
-         <relatedResources>
-            <textID idno="DHARMA_ ART000001_1.1v "/>
-         </relatedResources>
          <remarks>
             <p/>
          </remarks>
+         <originExhib>
+            <originExhibPlace status="" id="Malhār"/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id=""/>eId&gt;
+                        <discoveryCoordinates>find</discoveryCoordinates>
+            <discoveryEvents type="c. 1964" when=""/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id=""/>
+            <inventoryNumber/>
+         </preservationPlace>
+         <artefactRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <imageID idno="All rights reserved "/>
+         </relatedResources>
       </artefactDescription>
    </line>

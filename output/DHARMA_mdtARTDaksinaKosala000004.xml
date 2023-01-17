@@ -23,12 +23,10 @@
       </resourceManagement>
       <artefactDescription>
          <artefactID>ARTDaksinaKosala000004</artefactID>
-         <artefactDes>ART000008</artefactDes>
-         <alternative/>
+         <artefactDes type="main">ART000008</artefactDes>
          <relationText>
             <textID>INSDk00048</textID>
          </relationText>
-         <material>metal - copper_alloy</material>
          <artefactType>documentary - plate_(copper-plate)</artefactType>
          <reuse value="yes"/>
          <decoDesc>
@@ -47,41 +45,36 @@
                <p/>
             </copperplateWeightOther>
             <bindingHole value="1"/>
-            <bindingRing value="0"/>
             <sealPreservation value="no"/>
-            <sealingTechnique value="#not applicable"/>
-            <sealHeight unit="cm"/>
+            <sealingTechnique value="#no"/>
+            <sealHeight unit="cm">not applicable</sealHeight>
             <sealWidth unit="cm"/>
          </copperplateFormat>
-         <date notBefore="" notAfter=""> when the single copperplate was first published</date>
+         <date notBefore="" notAfter="">"At some point before 1995</date>
          <artefactHistory>
-            <p> it was found in the possession of a school teacher at Būrhīkhār."</p>
+            <p> when the single copperplate was first published</p>
          </artefactHistory>
+         <remarks>
+            <p> it was found in the possession of a school teacher at Būrhīkhār."</p>
+         </remarks>
          <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
+            <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceName>Būrhīkhār</discoveryPlaceName>
-            <discoveryPlaceID id=""/>
-            <discoveryCoordinates/>
+            <discoveryPlaceId id="">Būrhīkhār</discoveryPlaceId>eId&gt;
+                        <discoveryCoordinates/>
             <discoveryEvents type="find" when="second half nineteenth century"/>
          </discoveryPlace>
          <preservationPlace>
-            <preservationPlaceName/>
+            <preservationPlaceId id=""/>
             <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
          </preservationPlace>
          <artefactRights>
-            <governmentalHolder/>
-            <institutionalHolder/>
-            <artefactDistributionRights>All rights reserved</artefactDistributionRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
          </artefactRights>
-         <relatedResources/>
-         <remarks>
-            <p/>
-         </remarks>
+         <relatedResources>
+            <repoID idno="All rights reserved "/>
+         </relatedResources>
       </artefactDescription>
    </line>
