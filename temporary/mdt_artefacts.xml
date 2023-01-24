@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<File>
+<File xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <line>
       <resourceManagement>
          <resourceID>ARTDaksinaKosala000001</resourceID>
@@ -29,7 +29,7 @@
          <relationText>
             <textID>INSDk00003</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -63,8 +63,8 @@
             <originExhibPlace status="" id="Malhār"/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates>find</discoveryCoordinates>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates>find</discoveryCoordinates>
             <discoveryEvents type="c. 1964" when=""/>
          </discoveryPlace>
          <preservationPlace>
@@ -109,7 +109,7 @@
          <relationText>
             <textID>INSDk00017</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -144,8 +144,8 @@
                               id=""> it was preserved in the possession of an inhabitant of Rājim."</originExhibPlace>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates>Pokhra</discoveryCoordinates>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates>Pokhra</discoveryCoordinates>
             <discoveryEvents type="excavation" when="first half nineteenth century"/>
          </discoveryPlace>
          <preservationPlace>
@@ -188,7 +188,7 @@
          <relationText>
             <textID>INSDk00021</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -222,8 +222,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id="">Būrhīkhār</discoveryPlaceId>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id="">Būrhīkhār</discoveryPlaceId>
+            <discoveryCoordinates/>
             <discoveryEvents type="find" when="nineteen seventies"/>
          </discoveryPlace>
          <preservationPlace>
@@ -268,7 +268,7 @@
          <relationText>
             <textID>INSDk00048</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -302,8 +302,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id="">Būrhīkhār</discoveryPlaceId>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id="">Būrhīkhār</discoveryPlaceId>
+            <discoveryCoordinates/>
             <discoveryEvents type="find" when="second half nineteenth century"/>
          </discoveryPlace>
          <preservationPlace>
@@ -348,7 +348,7 @@
          <relationText>
             <textID>INSDk00049</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -382,8 +382,8 @@
             <originExhibPlace status="" id="">Malhār</originExhibPlace>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
             <discoveryEvents type="Private possession in Malhār (Kulab Singh)" when=""/>
          </discoveryPlace>
          <preservationPlace>
@@ -462,8 +462,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -540,8 +540,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -618,8 +618,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -696,8 +696,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -774,8 +774,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -852,8 +852,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -930,8 +930,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1008,8 +1008,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1086,8 +1086,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1164,8 +1164,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1242,8 +1242,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1320,8 +1320,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1398,8 +1398,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1476,8 +1476,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1554,8 +1554,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1632,8 +1632,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1710,8 +1710,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1788,8 +1788,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1866,8 +1866,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -1944,8 +1944,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2022,8 +2022,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2100,8 +2100,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2178,8 +2178,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2256,8 +2256,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2334,8 +2334,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2412,8 +2412,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2490,8 +2490,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2568,8 +2568,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2646,8 +2646,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2724,8 +2724,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2802,8 +2802,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2880,8 +2880,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -2958,8 +2958,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3036,8 +3036,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3114,8 +3114,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3192,8 +3192,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3270,8 +3270,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3348,8 +3348,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3426,8 +3426,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3504,8 +3504,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3582,8 +3582,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3660,8 +3660,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3738,8 +3738,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3816,8 +3816,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3894,8 +3894,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -3972,8 +3972,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4050,8 +4050,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4128,8 +4128,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4206,8 +4206,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4284,8 +4284,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4362,8 +4362,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4440,8 +4440,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4518,8 +4518,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4596,8 +4596,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4674,8 +4674,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4752,8 +4752,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4830,8 +4830,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4908,8 +4908,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -4986,8 +4986,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5064,8 +5064,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5142,8 +5142,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5220,8 +5220,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5298,8 +5298,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5376,8 +5376,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5454,8 +5454,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5532,8 +5532,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5610,8 +5610,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5688,8 +5688,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5766,8 +5766,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5844,8 +5844,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -5922,8 +5922,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6000,8 +6000,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6078,8 +6078,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6156,8 +6156,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6234,8 +6234,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6312,8 +6312,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6390,8 +6390,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6468,8 +6468,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6546,8 +6546,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6624,8 +6624,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6702,8 +6702,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6780,8 +6780,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6858,8 +6858,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -6936,8 +6936,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7014,8 +7014,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7092,8 +7092,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7170,8 +7170,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7248,8 +7248,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7326,8 +7326,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7404,8 +7404,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7482,8 +7482,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7560,8 +7560,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7638,8 +7638,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7716,8 +7716,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7794,8 +7794,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -7852,10 +7852,10 @@
          <relationMonument>
             <monumentID>Diameter of the artefact</monumentID>
          </relationMonument>
-         <material> e.g. seal</material>
-         <material> ring — free text"</material>
-         <artefactType>Circumference of the artefact</artefactType>
-         <artefactType>"Other relevant weight(s)</artefactType>
+         <material class=" e.g. seal"> e.g. seal</material>
+         <material class=" ring — free text&#34;"> ring — free text"</material>
+         <compositeArtefactType class="Circumference of the artefact"/>
+         <compositeArtefactType class="&#34;Other relevant weight(s)"/>
          <reuse value="yes"/>
          <decoDesc>
             <p>"Number of binding rings preserved</p>
@@ -7890,8 +7890,8 @@
                               id="ID of the place where the artefact was discovered">Place where the artefact was discovered — don't fill in if place ID is already available</originExhibPlace>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id="first event type">Coordinates if you have specific topographic data</discoveryPlaceId>eId&gt;
-                        <discoveryCoordinates>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</discoveryCoordinates>
+            <discoveryPlaceId id="first event type">Coordinates if you have specific topographic data</discoveryPlaceId>
+            <discoveryCoordinates>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</discoveryCoordinates>
             <discoveryEvents type="second event type"
                              when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
             <discoveryEvents type="Last known collection or place of preservation of the artefact — don't fill in if preserved in situ and if collection ID (next field) is available"
@@ -7979,8 +7979,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8055,8 +8055,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8131,8 +8131,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8207,8 +8207,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8283,8 +8283,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8359,8 +8359,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8435,8 +8435,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8511,8 +8511,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8587,8 +8587,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8663,8 +8663,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8739,8 +8739,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8815,8 +8815,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8891,8 +8891,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -8967,8 +8967,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9043,8 +9043,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9119,8 +9119,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9195,8 +9195,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9271,8 +9271,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9347,8 +9347,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9423,8 +9423,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9499,8 +9499,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9575,8 +9575,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9651,8 +9651,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9727,8 +9727,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9803,8 +9803,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9879,8 +9879,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -9955,8 +9955,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10031,8 +10031,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10107,8 +10107,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10183,8 +10183,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10259,8 +10259,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10335,8 +10335,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10411,8 +10411,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10487,8 +10487,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10563,8 +10563,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10639,8 +10639,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10715,8 +10715,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10791,8 +10791,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10867,8 +10867,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -10943,8 +10943,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11019,8 +11019,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11095,8 +11095,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11171,8 +11171,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11247,8 +11247,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11323,8 +11323,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11399,8 +11399,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11475,8 +11475,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11551,8 +11551,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11627,8 +11627,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11703,8 +11703,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11779,8 +11779,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11855,8 +11855,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -11931,8 +11931,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12007,8 +12007,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12083,8 +12083,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12159,8 +12159,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12235,8 +12235,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12311,8 +12311,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12387,8 +12387,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12463,8 +12463,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12539,8 +12539,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12615,8 +12615,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12691,8 +12691,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12767,8 +12767,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12843,8 +12843,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12919,8 +12919,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -12995,8 +12995,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13071,8 +13071,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13147,8 +13147,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13223,8 +13223,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13299,8 +13299,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13375,8 +13375,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13451,8 +13451,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13527,8 +13527,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13603,8 +13603,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13679,8 +13679,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13755,8 +13755,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13831,8 +13831,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13907,8 +13907,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -13983,8 +13983,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14059,8 +14059,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14135,8 +14135,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14211,8 +14211,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14287,8 +14287,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14363,8 +14363,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14439,8 +14439,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14515,8 +14515,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14591,8 +14591,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14667,8 +14667,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14743,8 +14743,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14819,8 +14819,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14895,8 +14895,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -14971,8 +14971,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15047,8 +15047,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15123,8 +15123,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15199,8 +15199,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15275,8 +15275,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15351,8 +15351,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15427,8 +15427,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15503,8 +15503,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
@@ -15579,8 +15579,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>
