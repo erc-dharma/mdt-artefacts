@@ -48,32 +48,31 @@
             <bindingInfo>Description of what is known or recorded about the origin and subsequent history of the artefact (free text)</bindingInfo>
             <foliationInfo>Remarks on conglomerate artefact-related metadata (free text)</foliationInfo>
             <sealPreservation value="no"/>
-            <sealingTechnique> in collection status</sealingTechnique>
-            <sealHeight unit="cm"> loss</sealHeight>
-            <sealWidth unit="cm"> or uncertainty"</sealWidth>
+            <sealingTechnique>Place where the artefact was originally exposed — don't fill in if place ID is already available</sealingTechnique>
+            <sealHeight unit="cm">ID of the place where the artefact was originally exposed</sealHeight>
+            <sealWidth unit="cm">Place where the artefact was discovered — don't fill in if place ID is already available</sealWidth>
          </copperplateFormat>
          <compositeArtefactHistory>
-            <p>Place where the artefact was discovered — don't fill in if place ID is already available</p>
-            <origDate from="" to="">ID of the place where the artefact was originally exposed</origDate>
+            <p>type of events</p>
+            <origDate from="" to="">Coordinates if you have a specific topographic data</origDate>
          </compositeArtefactHistory>
          <originExhib>
-            <originExhibPlace status="Coordinates if you have a specific topographic data" id="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)">type of events</originExhibPlace>
+            <originExhibPlace status="type of events" id="Collection or place (if the artefact remains in situ) where the artefact is currently preserved — don't fill in if collection ID is already available">date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</originExhibPlace>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)">type of events</discoveryPlaceId>
-            <discoveryCoordinates>Collection or place (if the artefact remains in situ) where the artefact is currently preserved — don't fill in if collection ID is already available</discoveryCoordinates>
-            <discoveryEvents type="ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)" when="Inventory number(s) of the artefact"/>
-            <discoveryEvents type="type of events" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
+            <discoveryPlaceId id="Inventory number(s) of the artefact">ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)</discoveryPlaceId>
+            <discoveryCoordinates>type of events</discoveryCoordinates>
+            <discoveryEvents type="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)" when="type of events"/>
+            <discoveryEvents type="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)" when="type of events"/>
          </discoveryPlace>
          <preservationPlace>
-            <preservationPlaceId id="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)">type of events</preservationPlaceId>
-            <inventoryNumber>type of events</inventoryNumber>
-            <preservationEvents type="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)" when="Institution or private person authorizing access to the artefact"/>
-            <preservationEvents type="Licence applicable to the artefact" when="Identifier(s) of the related surrogate(s). Use $ to separate the identifiers."/>
-            <preservationEvents type="Identifier(s) of the related digital image(s). Use $ to separate the identifiers." when="Link(s) to related images stored on external repository.  Use $ to separate the identifiers."/>
+            <preservationPlaceId id="Institution or private person authorizing access to the artefact">date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</preservationPlaceId>
+            <inventoryNumber>Licence applicable to the artefact</inventoryNumber>
+            <preservationEvents type="Identifier(s) of the related surrogate(s). Use $ to separate the identifiers." when="Identifier(s) of the related digital image(s). Use $ to separate the identifiers."/>
+            <preservationEvents type="Link(s) to related images stored on external repository.  Use $ to separate the identifiers." when="0"/>
          </preservationPlace>
          <compositeArtefactRights>
-            <rightHolder>0</rightHolder>
+            <rightHolder/>
             <artefactDistributionRights/>
          </compositeArtefactRights>
          <relatedResources>
@@ -82,7 +81,7 @@
             <monumentID idno="Global width "/>
          </relatedResources>
          <remarks>
-            <p>ID of the place where the artefact was discovered</p>
+            <p>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</p>
          </remarks>
       </compositeArtefactDescription>
    </line>
