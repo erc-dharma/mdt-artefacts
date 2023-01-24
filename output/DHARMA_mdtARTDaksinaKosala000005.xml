@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <resourceManagement>
+         <resourceID>ARTDaksinaKosala000005</resourceID>
+         <metadataOrigin>ART000009</metadataOrigin>
+         <metadataEditor>
+            <change when="2022-01-17" who="part:Natasja Bosma">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="2022-01-17" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>DaksinaKosala</corpus>
+         <metadataRights>CCO</metadataRights>
+      </resourceManagement>
+      <artefactDescription>
+         <artefactID>ARTDaksinaKosala000005</artefactID>
+         <artefactDes type="main">ART000009</artefactDes>
+         <relationText>
+            <textID>INSDk00049</textID>
+         </relationText>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
+         <reuse value="yes"/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <artefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </artefactFormat>
+         <copperplateFormat>
+            <copperplateWeightOther>
+               <p/>
+            </copperplateWeightOther>
+            <bindingHole value="1"/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#no"/>
+            <sealHeight unit="cm">not applicable</sealHeight>
+            <sealWidth unit="cm"/>
+         </copperplateFormat>
+         <date when=""/>
+         <artefactHistory>
+            <p/>
+         </artefactHistory>
+         <remarks>
+            <p/>
+         </remarks>
+         <originExhib>
+            <originExhibPlace status="" id="">Malhār</originExhibPlace>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
+            <discoveryEvents type="Private possession in Malhār (Kulab Singh)" when=""/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id=""/>
+            <inventoryNumber/>
+         </preservationPlace>
+         <artefactRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <surrogateID idno="All rights reserved "/>
+            <repoID idno="DHARMA_ ART000009_1.1v "/>
+         </relatedResources>
+      </artefactDescription>
+   </line>

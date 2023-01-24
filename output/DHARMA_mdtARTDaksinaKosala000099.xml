@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <resourceManagement>
+         <resourceID>ARTDaksinaKosala000099</resourceID>
+         <metadataOrigin/>
+         <metadataEditor>
+            <change when="" who="">
+                                import of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change when="" who="">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>DaksinaKosala</corpus>
+         <metadataRights>CCO</metadataRights>
+      </resourceManagement>
+      <artefactDescription>
+         <artefactID>ARTDaksinaKosala000099</artefactID>
+         <artefactDes type="main"/>
+         <relationText>
+            <textID/>
+         </relationText>
+         <reuse value="yes"/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <artefactFormat>
+            <height unit="cm"/>
+            <width unit="cm"/>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm"/>
+         </artefactFormat>
+         <copperplateFormat>
+            <copperplateWeightOther>
+               <p/>
+            </copperplateWeightOther>
+            <bindingHole value=""/>
+            <sealPreservation value="no"/>
+            <sealingTechnique value="#"/>
+            <sealHeight unit="cm"/>
+            <sealWidth unit="cm"/>
+         </copperplateFormat>
+         <date when=""/>
+         <artefactHistory>
+            <p/>
+         </artefactHistory>
+         <remarks>
+            <p/>
+         </remarks>
+         <originExhib>
+            <originExhibPlace status="" id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id=""/>
+            <inventoryNumber/>
+         </preservationPlace>
+         <artefactRights>
+            <rightHolder/>
+            <artefactDistributionRights/>
+         </artefactRights>
+         <relatedResources>
+            <surrogateID idno="All rights reserved "/>
+         </relatedResources>
+      </artefactDescription>
+   </line>
