@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <resourceManagement>
+         <resourceID>CONARTPallava000001</resourceID>
+         <metadataOrigin>
+            <bibl>
+               <ptr target="bib:Vinson1905_01"/>
+            </bibl>
+         </metadataOrigin>
+         <metadataEditor>
+            <change when="2023-01-17" who="part:emfr">
+                                edition of medadata
+                            </change>
+         </metadataEditor>
+         <metadataContribution>
+            <change who="part:">
+                                Contributions made in medadata
+                            </change>
+         </metadataContribution>
+         <metadataReview>
+            <change when="" who="part:">
+                                Reviews of medadata
+                            </change>
+         </metadataReview>
+         <project>DHARMA</project>
+         <corpus>Pallava</corpus>
+         <metadataRights>CC0</metadataRights>
+      </resourceManagement>
+      <compositeArtefactDescription>
+         <compositeArtefactID>CONARTPallava000001</compositeArtefactID>
+         <compositeArtefactDes type="main">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</compositeArtefactDes>
+         <material class="metal">copper alloy</material>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
+         <reuse value="yes"/>
+         <decoDesc>
+            <p/>
+         </decoDesc>
+         <compositeArtefactFormat>
+            <height unit="cm">20.19</height>
+            <width unit="cm">9.15</width>
+            <depth unit="cm"/>
+            <diameter unit="cm"/>
+            <circumference unit="cm"/>
+            <weight unit="cm">3106</weight>
+         </compositeArtefactFormat>
+         <copperplateFormat observed="5">
+            <bindingInfo>Found without ring. The whole piercing the plates is 0.135 cm in diameter and is found at 0.9 to 1 cm from the left vertical side.</bindingInfo>
+            <foliationInfo>The plates are not foliated.</foliationInfo>
+            <sealPreservation value="no"/>
+            <sealingTechnique/>
+            <sealHeight unit="cm"/>
+            <sealWidth unit="cm"/>
+         </copperplateFormat>
+         <compositeArtefactHistory>
+            <p>Discovered by Jules Delafon, in June 1879, buried at a depth of 1 metre, in the middle of a brick structure, 6 metres south of the Vākūr temple. Given by Jules Godin to Jules Ferry. Lost of sight until December 1904. Given by Madame Jules Ferry to the future BnF.</p>
+            <origDate from="850" to="900">850-900</origDate>
+         </compositeArtefactHistory>
+         <originExhib>
+            <originExhibPlace status="in collection" id=""/>
+         </originExhib>
+         <discoveryPlace>
+            <discoveryPlaceId id="TBC"/>
+            <discoveryCoordinates/>
+            <discoveryEvents type="find" when="06-1897"/>
+         </discoveryPlace>
+         <preservationPlace>
+            <preservationPlaceId id="TBC">TBC</preservationPlaceId>
+            <inventoryNumber>Indien 574</inventoryNumber>
+            <preservationEvents type="acquisition" when="15-05-1905"/>
+         </preservationPlace>
+         <compositeArtefactRights>
+            <rightHolder>BnF</rightHolder>
+            <artefactDistributionRights>All rights reserved</artefactDistributionRights>
+         </compositeArtefactRights>
+         <relatedResources>
+            <textID idno="INSPallava00155 "/>
+         </relatedResources>
+         <remarks>
+            <p/>
+         </remarks>
+      </compositeArtefactDescription>
+   </line>
