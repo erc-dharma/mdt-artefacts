@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><line>
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <resourceManagement>
          <resourceID>ARTDaksinaKosala000023</resourceID>
          <metadataOrigin/>
@@ -60,8 +60,8 @@
             <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates/>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
             <preservationPlaceId id=""/>

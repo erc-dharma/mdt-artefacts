@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><line>
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <resourceManagement>
          <resourceID>ARTDaksinaKosala000001</resourceID>
          <metadataOrigin>ART000001</metadataOrigin>
@@ -27,7 +27,7 @@
          <relationText>
             <textID>INSDk00003</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -61,8 +61,8 @@
             <originExhibPlace status="" id="Malhār"/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates>find</discoveryCoordinates>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates>find</discoveryCoordinates>
             <discoveryEvents type="c. 1964" when=""/>
          </discoveryPlace>
          <preservationPlace>

@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><line>
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <resourceManagement>
          <resourceID>CONARTPallava000006</resourceID>
          <metadataOrigin/>
          <metadataEditor>
-            <change when="" who="">
-                                import of medadata
+            <change when="" who="part:">
+                                edition of medadata
                             </change>
          </metadataEditor>
          <metadataContribution>
-            <change when="" who="">
+            <change who="part:">
                                 Contributions made in medadata
                             </change>
          </metadataContribution>
          <metadataReview>
-            <change when="" who="">
+            <change when="" who="part:">
                                 Reviews of medadata
                             </change>
          </metadataReview>
@@ -23,10 +23,8 @@
       </resourceManagement>
       <compositeArtefactDescription>
          <compositeArtefactID>CONARTPallava000006</compositeArtefactID>
-         <compositeArtefactDes/>
-         <alternative/>
-         <material/>
-         <compositeArtefactType/>
+         <compositeArtefactDes type="main"/>
+         <reuse value="yes"/>
          <decoDesc>
             <p/>
          </decoDesc>
@@ -43,29 +41,21 @@
             <origDate when=""/>
          </compositeArtefactHistory>
          <originExhib>
-            <originExhibPlace/>
-            <originPlaceID id=""/>
+            <originExhibPlace status="" id=""/>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceName/>
-            <discoveryPlaceID id=""/>
+            <discoveryPlaceId id=""/>
             <discoveryCoordinates/>
          </discoveryPlace>
          <preservationPlace>
-            <preservationPlaceName/>
+            <preservationPlaceId id=""/>
             <inventoryNumber/>
-            <preservationPlaceID idno=""/>
-            <preservationCoordinates/>
-            <inSituStatus value=""/>
          </preservationPlace>
          <compositeArtefactRights>
-            <governmentalHolder/>
-            <institutionalHolder/>
-            <compositeArtefactDistributionRights/>
+            <rightHolder/>
+            <artefactDistributionRights>All rights reserved</artefactDistributionRights>
          </compositeArtefactRights>
-         <relatedResources>
-            <imageID idno="All rights reserved "/>
-         </relatedResources>
+         <relatedResources/>
          <remarks>
             <p/>
          </remarks>

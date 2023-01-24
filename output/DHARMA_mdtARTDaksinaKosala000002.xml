@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><line>
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <resourceManagement>
          <resourceID>ARTDaksinaKosala000002</resourceID>
          <metadataOrigin>ART000002</metadataOrigin>
@@ -27,7 +27,7 @@
          <relationText>
             <textID>INSDk00017</textID>
          </relationText>
-         <artefactType>documentary - plate_(copper-plate)</artefactType>
+         <compositeArtefactType class="documentary">plate_(copper-plate)</compositeArtefactType>
          <reuse value="yes"/>
          <decoDesc>
             <p/>
@@ -61,8 +61,8 @@
             <originExhibPlace status=" the decision was made to divide the set and only the present plate survived (whereas the rest of the set was melted down). Afterwards" id=""> it was preserved in the possession of an inhabitant of Rājim."</originExhibPlace>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceId id=""/>eId&gt;
-                        <discoveryCoordinates>Pokhra</discoveryCoordinates>
+            <discoveryPlaceId id=""/>
+            <discoveryCoordinates>Pokhra</discoveryCoordinates>
             <discoveryEvents type="excavation" when="first half nineteenth century"/>
          </discoveryPlace>
          <preservationPlace>

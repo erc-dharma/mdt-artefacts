@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><line>
+<?xml version="1.0" encoding="UTF-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <resourceManagement>
          <resourceID>Alternative designation(s)</resourceID>
-         <metadataOrigin>Alternative designation(s)</metadataOrigin>
+         <metadataOrigin when="&#34;Identifier(s) of the text(s) on the conglomerate artefact">Alternative designation(s)</metadataOrigin>
          <metadataEditor>
-            <change when="&#34;Identifier(s) of the text(s) on the conglomerate artefact" who="part: if there is more than one text on the conglomerate artefact">
-                                import of medadata
+            <change when=" separate the identifiers by $&#34;" who="part: if there is more than one text on the conglomerate artefact">
+                                edition of medadata
                             </change>
          </metadataEditor>
          <metadataContribution>
-            <change when=" separate the identifiers by $&#34;" who="part:&#34;Identifier(s) of the artefact(s) that pertains to the conglomerate artefact">
+            <change who="part:&#34;Identifier(s) of the artefact(s) that pertains to the conglomerate artefact">
                                 Contributions made in medadata
                             </change>
          </metadataContribution>
@@ -23,71 +23,66 @@
       </resourceManagement>
       <compositeArtefactDescription>
          <compositeArtefactID> write ""yes"" if you're encoding a case of reuse"</compositeArtefactID>
-         <compositeArtefactDes>Conglomerate artefact type</compositeArtefactDes>
+         <compositeArtefactDes type="main">Conglomerate artefact type</compositeArtefactDes>
          <alternative>
-            <artefactDes>Material type</artefactDes>
-            <artefactDes>Material type</artefactDes>
+            <artefactDes type="alt">Material type</artefactDes>
+            <artefactDes type="alt">Material type</artefactDes>
          </alternative>
-         <material>Global circumference</material>
-         <material>Global weight</material>
-         <compositeArtefactType>Global depth</compositeArtefactType>
-         <compositeArtefactType>Global diameter</compositeArtefactType>
+         <material class="Global weight">Global weight</material>
+         <material class="Number of plates observed within the set">Number of plates observed within the set</material>
+         <compositeArtefactType class="Global depth"/>
+         <compositeArtefactType class="Global circumference"/>
+         <reuse value="yes"/>
          <decoDesc>
-            <p>Number of plates observed within the set</p>
+            <p>Number of plates estimated (but not observed)</p>
          </decoDesc>
          <compositeArtefactFormat>
-            <height unit="cm">Number of plates estimated (but not observed)</height>
-            <width unit="cm">Number of binding rings preserved</width>
-            <depth unit="cm">Information about foliation. Free text</depth>
-            <diameter unit="cm">Indicate the presence of seal(s) by yes or no</diameter>
-            <circumference unit="cm">Type of seal</circumference>
-            <weight unit="cm">Height of the seal matrix</weight>
+            <height unit="cm">Number of binding rings preserved</height>
+            <width unit="cm">Information about foliation. Free text</width>
+            <depth unit="cm">Indicate the presence of seal(s) by yes or no</depth>
+            <diameter unit="cm">Type of seal</diameter>
+            <circumference unit="cm">Height of the seal matrix</circumference>
+            <weight unit="cm">Width of the seal matrix</weight>
          </compositeArtefactFormat>
-         <copperplateFormat>
-            <bindingRing value="Width of the seal matrix"/>
+         <copperplateFormat observed="YYYY-MM-DD or YYYY-MM or YYYY" estimated="YYYY-YYYY">
+            <bindingInfo>Description of what is known or recorded about the origin and subsequent history of the artefact (free text)</bindingInfo>
+            <foliationInfo>Remarks on conglomerate artefact-related metadata (free text)</foliationInfo>
             <sealPreservation value="no"/>
-            <sealingTechnique value="#YYYY-YYYY"/>
-            <sealHeight unit="cm">Description of what is known or recorded about the origin and subsequent history of the artefact (free text)</sealHeight>
-            <sealWidth unit="cm">Remarks on conglomerate artefact-related metadata (free text)</sealWidth>
+            <sealingTechnique> in collection status</sealingTechnique>
+            <sealHeight unit="cm"> loss</sealHeight>
+            <sealWidth unit="cm"> or uncertainty"</sealWidth>
          </copperplateFormat>
          <compositeArtefactHistory>
-            <p> loss</p>
-            <origDate from="" tp=""> in collection status</origDate>
+            <p>Place where the artefact was discovered — don't fill in if place ID is already available</p>
+            <origDate from="" to="">ID of the place where the artefact was originally exposed</origDate>
          </compositeArtefactHistory>
          <originExhib>
-            <originExhibPlace>Place where the artefact was originally exposed — don't fill in if place ID is already available</originExhibPlace>
-            <originPlaceID id="ID of the place where the artefact was originally exposed"/>
+            <originExhibPlace status="Coordinates if you have a specific topographic data" id="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)">type of events</originExhibPlace>
          </originExhib>
          <discoveryPlace>
-            <discoveryPlaceName>Place where the artefact was discovered — don't fill in if place ID is already available</discoveryPlaceName>
-            <discoveryPlaceID id="ID of the place where the artefact was discovered"/>
-            <discoveryCoordinates>Coordinates if you have a specific topographic data</discoveryCoordinates>
-            <discoveryEvents type="type of events" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
+            <discoveryPlaceId id="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)">type of events</discoveryPlaceId>
+            <discoveryCoordinates>Collection or place (if the artefact remains in situ) where the artefact is currently preserved — don't fill in if collection ID is already available</discoveryCoordinates>
+            <discoveryEvents type="ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)" when="Inventory number(s) of the artefact"/>
             <discoveryEvents type="type of events" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
          </discoveryPlace>
          <preservationPlace>
-            <preservationPlaceName>Collection or place (if the artefact remains in situ) where the artefact is currently preserved — don't fill in if collection ID is already available</preservationPlaceName>
-            <inventoryNumber>ID of the collection (institution or private collection) or place of preservation ID (if the artefact remains in situ)</inventoryNumber>
-            <preservationPlaceID idno="Inventory number(s) of the artefact"/>
-            <preservationCoordinates>date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)</preservationCoordinates>
-            <inSituStatus value="type of events"/>
-            <preservationEvents type="type of events" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
-            <preservationEvents type="type of events" when="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)"/>
-            <preservationEvents type="Institution or private person authorizing access to the artefact" when="Licence applicable to the artefact"/>
+            <preservationPlaceId id="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)">type of events</preservationPlaceId>
+            <inventoryNumber>type of events</inventoryNumber>
+            <preservationEvents type="date of events (YYYY or MM-YYYY or DD-MM-YYYY or YYYY-YYYY)" when="Institution or private person authorizing access to the artefact"/>
+            <preservationEvents type="Licence applicable to the artefact" when="Identifier(s) of the related surrogate(s). Use $ to separate the identifiers."/>
+            <preservationEvents type="Identifier(s) of the related digital image(s). Use $ to separate the identifiers." when="Link(s) to related images stored on external repository.  Use $ to separate the identifiers."/>
          </preservationPlace>
          <compositeArtefactRights>
-            <governmentalHolder>Identifier(s) of the related surrogate(s). Use $ to separate the identifiers.</governmentalHolder>
-            <institutionalHolder>Identifier(s) of the related digital image(s). Use $ to separate the identifiers.</institutionalHolder>
-            <compositeArtefactDistributionRights>Link(s) to related images stored on external repository.  Use $ to separate the identifiers.</compositeArtefactDistributionRights>
+            <rightHolder>0</rightHolder>
+            <artefactDistributionRights/>
          </compositeArtefactRights>
          <relatedResources>
             <artefactID idno="Global height "/>
             <textID idno="Iconography and/or decoration observed on the artefact (free text) "/>
             <monumentID idno="Global width "/>
-            <surrogateID idno="0 "/>
          </relatedResources>
          <remarks>
-            <p> or uncertainty"</p>
+            <p>ID of the place where the artefact was discovered</p>
          </remarks>
       </compositeArtefactDescription>
    </line>
