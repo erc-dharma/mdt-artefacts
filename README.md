@@ -1,7 +1,7 @@
 # mdt-artefacts
 DHARMA Artefacts metadata
 
-CSV folder = strong the csv files for artefacts and conglomerate artefacts of the projects downloaded from googleSheets. 
+CSV folder = stores the csv files for artefacts and conglomerate artefacts of the projects downloaded from googleSheets. 
 output = temporary files for each artefact and conglomerate artefacts, to check if necessary. Splitted by xslt stored in project-documentatation/Stylesheets/mdt_inscriptions/mdtArtefact_splitting.xsl
 temporary= two files containing artefact or conglomerate artefacts used to render the html display. Made with xslt stored in project-documentatation/Stylesheets/mdt_inscriptions/mdtArtefact_start.xsl
 
